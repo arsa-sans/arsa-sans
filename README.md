@@ -9,7 +9,9 @@
 <br>
 <h3 align="left">About Me</h3>
 <p align="left">
-- Student from "SMKN 1 CIANJUR
+- My name is Muhammad Arsa Prayata
+  <br>
+- Student from SMKN 1 CIANJUR
   <br>
 - Fun fact I'm funny <b>maybe</b>
 </p>
