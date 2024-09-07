@@ -11,7 +11,7 @@
 <p align="left">
 - Student from "SMKN 1 CIANJUR
   <br>
-- Fun Fact I'm funny <b>maybe</b>
+- Fun fact I'm funny <b>maybe</b>
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
