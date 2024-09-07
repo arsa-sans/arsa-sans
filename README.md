@@ -6,5 +6,5 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsa-sans&show_icons=true&locale=en&layout=compact" alt="arsa-sans" /></p>
 <br>
-<img align="left" src="WhatsApp Image 2024-09-07 at 12.56.53_29e8ec1b">
+<img align="left" src="Sans.jpg">
 <h1 align="center">Sorry Say Goodbay</h1>
