@@ -34,7 +34,7 @@
 
 <footer>
 <p align="left">
-<i>🔗 Connect with me: <a href="https://instagram.com/aarrssaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarrssaa._" height="30" width="40" /></a>
+<i>🔗 Connect with me: <a href="https://instagram.com/aarrssaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarrssaa._" height="30" width="40" /></a> <a href="https://open.spotify.com/user/31jr3ungxflwndoeq3strnaryqzy?si=oOv1hrZ3SnWF2DOqeD_4AA" target="blank"><img align="center" src="spotify.png" height="35" widht="35"></a>
 </i></p>
 <p align="right"><img src="tobe.jpg"></p>
 </footer>
