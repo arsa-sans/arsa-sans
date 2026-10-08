@@ -7,13 +7,6 @@
 <img src="sans.png" width="195" height="189">
 <br>
 👋 My name is Muhammad Arsa Prayata
-<br>
-🤓 Student from SMKN 1 CIANJUR
-<br>
-💬 Ask me about: Anime.
-<br>
-⚡ Fun fact I'm funny <b>maybe</b>
-</p>
   
 <br>
 
