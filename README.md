@@ -26,5 +26,5 @@ My name is Muhammad Arsa Prayata
 <br>
 
 <footer>
-<p align="right"><img src="tobe.jpg"></p>
+<p align="left"><img src="tobe.jpg"></p>
 </footer>
