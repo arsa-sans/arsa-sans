@@ -3,9 +3,11 @@
 About me : 
 <i><b>"just living, not entertaining"<b/></i>
 <br>
+<br>
 <img src="sans.png" width="195" height="189">
 <br>
-Hai My name is Muhammad Arsa Prayata
+<br>
+Hai my name is Muhammad Arsa Prayata
   
 <br>
 
